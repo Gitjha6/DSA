@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Gitjha6/DSA/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Gitjha6/DSA/tree/master/0217-contains-duplicate) |
 | [0907-koko-eating-bananas](https://github.com/Gitjha6/DSA/tree/master/0907-koko-eating-bananas) |
 | [3790-fruits-into-baskets-ii](https://github.com/Gitjha6/DSA/tree/master/3790-fruits-into-baskets-ii) |
@@ -27,6 +28,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Gitjha6/DSA/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Gitjha6/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Gitjha6/DSA/tree/master/0242-valid-anagram) |
 ## Sorting
