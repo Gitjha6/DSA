@@ -7,11 +7,10 @@ public:
         {
             if(st.find(num-1)==st.end())
             {
-                int len=1,seq=num+1;
-                while(st.find(seq)!=st.end())
+                int len=1;
+                while(st.find(num+len)!=st.end())
                 {
                     len++;
-                    seq++;
                 }
                 maxlen=max(maxlen,len);
             }
